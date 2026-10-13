@@ -1,0 +1,7 @@
+{
+  "appId": "com.blockrunner.game",
+  "appName": "Blockrunner",
+  "webDir": "www",
+  "backgroundColor": "#14130f",
+  "server": { "androidScheme": "https" }
+}
